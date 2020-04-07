@@ -4,13 +4,15 @@ import PropTypes from 'prop-types'
 import Image from './Image'
 import Content from './Content'
 import './PageHeader.css'
+import PopupMailchimp from './PopupMailchimp'
 
 const PageHeader = ({
   title,
   subtitle,
   backgroundImage,
   large,
-  className = ''
+  className = '',
+  showMailchimp
 }) => {
   if (large) className += ' PageHeader-large'
   return (
@@ -29,6 +31,7 @@ const PageHeader = ({
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
         )}
+        {showMailchimp && <PopupMailchimp />}
       </div>
     </div>
   )
