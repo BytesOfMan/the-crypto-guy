@@ -47,8 +47,8 @@ module.exports = {
         name: 'theCryptoGuy',
         short_name: 'theCryptoGuy',
         start_url: '/',
-        background_color: '#00C2BD',
-        theme_color: '#00C2BD',
+        background_color: '#0e7dff',
+        theme_color: '#0e7dff',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: 'standalone',
