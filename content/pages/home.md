@@ -5,7 +5,7 @@ title: The Crypto Guy
 featuredImage: 'https://live.staticflickr.com/4284/35079074112_70162ca9a2_h.jpg'
 subtitle: Navigating the ups and downs of life-changing wealth
 meta:
-  description: This is a meta description.
+  description: Interested in learning more about cryptocurrency but slightly put off by the schemes, scams, and over-the-moon promises? You've come to the right place.
   title: Home
 ---
 
