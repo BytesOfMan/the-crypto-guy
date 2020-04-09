@@ -2,35 +2,35 @@
 template: SinglePost
 title: Welcome to The Crypto Guy
 status: Published
-date: '2020-04-06'
-featuredImage: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cryptocurrency_logos.jpg/640px-Cryptocurrency_logos.jpg
+date: '2020-04-09'
+featuredImage: 'https://i.imgur.com/bjarnKj.png'
 excerpt: >-
-  This is placeholder text that our web designers put here to make sure words
-  appear properly on your website. This text is going to be replaced once the
-  website is completed. You are currently reading text that is written in
-  English, not any other language.
+  One problem with cryptocurrency: politics. When it comes to who gets what and why, things become visceral and immediate. Can you remember the last person who talked to you about cryptocurrency who wasn't insane?
 categories:
   - category: Notes
 meta:
-  description: test meta description
+  description: One problem with cryptocurrency? Politics.
   title: Welcome to The Crypto Guy
 ---
 
-> Who are you
-> What's your background
-> what to expect
-> under 300 words
+![Imgur](https://i.imgur.com/bjarnKj.png)
 
-In 2013 a colleague sent me a msg.
+One problem with cryptocurrency: politics.
 
-"Hey you can by bitcoin at coinbase."
+When it comes to who gets what and why, things become visceral and immediate.
 
-"What's bitcoin?"
+Can you remember the last person who talked to you about cryptocurrency who wasn't insane?
 
-"Just use this link."
+Billionaire tech investor and internet pioneer Marc Andreessen, speaking on Tim Ferriss's podcast in 2016, [observed this key difference](https://tim.blog/2018/01/01/the-tim-ferriss-show-transcripts-marc-andreessen/) between cryptocurrency and other tech.
 
-<!---
-Image
-![jalalala](https://ucarecdn.com/59d8de4a-77f1-436d-b471-7f2df760ec6e/ 'stest')
--->
+> I’m talking about bank CEO’s just are furious. You bring up bitcoin, and they just get really upset. And I’m like did you get upset about your new toaster? It’s just a technology.
+
+There are **_excellent_** reasons to remain skeptical.
+
+Crypto is not a magic solution. It's certainly not the savior touted by its most prominent supporters.
+
+**But there are no good reasons to remain ignorant.**
+
+Back to Andreessen:
+
+> It’s just a thing. And you can study it, and you can learn about it, and you can think about it. And you’ll either conclude it’s good or not. But it’s not going to bite you.
