@@ -13,7 +13,7 @@ meta:
   title: Welcome to The Crypto Guy
 ---
 
-![Imgur](https://i.imgur.com/bjarnKj.png)
+![](https://i.imgur.com/bjarnKj.png)
 
 One problem with cryptocurrency: politics.
 
