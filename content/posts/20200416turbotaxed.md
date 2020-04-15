@@ -13,7 +13,7 @@ meta:
   title: Crypto is not for everyone
 ---
 
-![Experienced advisor]('./images/hidethepainharold.jpg)
+![Experienced advisor](./images/hidethepainharold.jpg)
 
 **_"Crypto? You made \$50k off that shit?"_**
 
