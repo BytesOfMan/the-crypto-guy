@@ -19,8 +19,14 @@ You've come to the right place.
 
 # My Experience
 
-- **7 years** in the crypto markets
-- **3 years** as a full-time software engineer for <a target="_blank" rel="nofollow" href="https://www.bitcoin.com/">
-  Bitcoin.com
-  </a>
-- **Millions of dollars** in crypto gains (_and losses_)
+I'm a software engineer for Bitcoin.com. You can see some of my apps at
+
+- <a href="https://gifts.bitcoin.com/" target="_blank" rel="nofollow">gifts.bitcoin.com</a>
+- <a href="https://tools.bitcoin.com/" target="_blank" rel="nofollow">tools.bitcoin.com</a>
+- <a href="https://charts.bitcoin.com/" target="_blank" rel="nofollow">charts.bitcoin.com</a>
+- <a href="https://notary.bitcoin.com/" target="_blank" rel="nofollow">notary.bitcoin.com</a>
+- <a href="https://tools.bitcoin.com/" target="_blank" rel="nofollow">tools.bitcoin.com</a>
+
+Since leaving ExxonMobil and Samsung, **my only income has been cryptocurrency** &mdash; capital gains and software engineering services.
+
+Crypto has a (well-deserved) bad reputation. But that doesn't mean you can keep your head in the sand. For better or worse, the era of digital commodities is here to stay.
