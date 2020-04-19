@@ -29,6 +29,8 @@ module.exports = {
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  subject: edge.node.frontmatter.emailSubject,
+                  preview: edge.node.frontmatter.emailPreviewText,
                   custom_elements: [{ 'content:encoded': edge.node.html }]
                 })
               })
@@ -48,7 +50,9 @@ module.exports = {
                         frontmatter {                          
                           title
                           date
-                          featuredImage                              
+                          featuredImage
+                          emailSubject
+                          emailPreviewText
                         }
                         html                
                         excerpt(pruneLength: 140)
@@ -58,7 +62,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: 'The Crypto Guy RSS',
+            title: 'The Crypto Guy RSS Feed',
             // optional configuration to insert feed reference in pages:
             // if `string` is used, it will be used to create RegExp and then test if pathname of
             // current page satisfied this regular expression;

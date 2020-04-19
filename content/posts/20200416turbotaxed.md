@@ -3,7 +3,9 @@ template: SinglePost
 title: Crypto is not for everyone
 status: Published
 date: '2020-04-16'
-featuredImage: 'https://thecryptoguy.com/images/hidethepainharold.jpg'
+featuredImage: '../images/hidethepainharold.jpg'
+emailSubject: Crypto is not for everyone (free bitcoin in email)
+emailPreviewText: Crypto? You made $50k off that shit?
 excerpt: >-
   "Crypto? You made $50k off that shit?"
 categories:
@@ -11,8 +13,6 @@ categories:
 meta:
   description: 'Crypto? You made $50k off that shit?'
   title: Crypto is not for everyone
-  featuredImage: 'https://thecryptoguy.com/images/hidethepainharold.jpg'
-  absoluteImageUrl: 'https://thecryptoguy.com/images/hidethepainharold.jpg'
 ---
 
 ![Experienced advisor](./images/hidethepainharold.jpg)
