@@ -29,9 +29,11 @@ module.exports = {
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  subject: edge.node.frontmatter.emailSubject,
-                  preview: edge.node.frontmatter.emailPreviewText,
-                  custom_elements: [{ 'content:encoded': edge.node.html }]
+                  custom_elements: [
+                    { 'content:encoded': edge.node.html },
+                    { subject: edge.node.frontmatter.emailSubject },
+                    { preview: edge.node.frontmatter.emailPreviewText }
+                  ]
                 })
               })
             },
