@@ -4,6 +4,7 @@ title: Speculating is Timeless
 status: Published
 date: '2020-04-13'
 featuredImage: 'https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg'
+slug: speculating-is-timeless
 excerpt: >-
   In the aftermath of the 2008 financial crisis, what most people called "investment" was in fact gambling on what the federal authorities would support next.
 categories:
