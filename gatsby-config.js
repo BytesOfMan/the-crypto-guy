@@ -17,25 +17,8 @@ module.exports = {
             siteMetadata {
                 siteUrl
             }
-        }
-          allMarkdownRemark(
-              limit: 1000
-              filter: { fileAbsolutePath: { regex: "//content/posts//" } }
-              sort: { order: DESC, fields: [frontmatter___date] }
-          ) {
-              edges {
-                  node {
-                    frontmatter {                          
-                          title
-                          date
-                          featuredImage 
-                      }
-                    html                
-                    excerpt(pruneLength: 140)
-                  }
-              }
           }
-      }
+        }
         `,
         feeds: [
           {
@@ -44,8 +27,8 @@ module.exports = {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  url: site.siteMetadata.siteUrl + edge.node.frontmatter.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.frontmatter.slug,
                   custom_elements: [{ 'content:encoded': edge.node.html }]
                 })
               })
@@ -53,20 +36,23 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
-                  sort: { order: DESC, fields: [frontmatter___date] },
-                ) {
+                  limit: 1000
+                  filter: { fileAbsolutePath: { regex: "//content/posts//" } }
+                  sort: { order: DESC, fields: [frontmatter___date] }
+              ) {
                   edges {
-                    node {
-                      excerpt
-                      html
-                      fields { slug }
-                      frontmatter {
-                        title
-                        date
+                      node {
+                        frontmatter {                          
+                              title
+                              date
+                              featuredImage
+                              slug
+                          }
+                        html                
+                        excerpt(pruneLength: 140)
                       }
-                    }
                   }
-                }
+              }
               }
             `,
             output: '/rss.xml',
