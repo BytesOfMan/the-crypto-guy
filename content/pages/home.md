@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: The Crypto Guy
 featuredImage: ../images/header.jpg
-subtitle: Navigating the ups and downs of life-changing wealth
+subtitle:
 meta:
   description: Interested in learning more about cryptocurrency but slightly put off by the schemes, scams, and over-the-moon promises? You've come to the right place.
   title: Home

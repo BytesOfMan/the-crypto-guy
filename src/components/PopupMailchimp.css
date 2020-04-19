@@ -26,17 +26,17 @@
   overflow: hidden;
 }
 
-.Popup-Inner {
+.Popup-Inner-MailChimp {
   background: white;
   width: 80%;
   max-width: 400px;
-  max-height: 350px;
+  max-height: 250px;
   position: relative;
   z-index: 99999999;
   padding: 3rem 5rem 0rem 5rem;
   overflow: hidden;
 }
-.Popup-Inner > div > form {
+.Popup-Inner-MailChimp > div > form {
   color: #000;
 }
 
@@ -45,4 +45,7 @@
   top: 2rem;
   right: 2rem;
   color: #000;
+}
+.MailChimp-Title {
+  color: black;
 }

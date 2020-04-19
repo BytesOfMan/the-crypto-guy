@@ -1,8 +1,8 @@
 ---
 template: SinglePost
-title: Crypto is not for everyone
+title: How do you call the top of the crypto market?
 status: Published
-date: '2020-04-16'
+date: '2022-04-21'
 featuredImage: 'https://thecryptoguy.com/images/hidethepainharold.jpg'
 excerpt: >-
   "Crypto? You made $50k off that shit?"
@@ -15,9 +15,17 @@ meta:
   absoluteImageUrl: 'https://thecryptoguy.com/images/hidethepainharold.jpg'
 ---
 
-![Experienced advisor](./images/hidethepainharold.jpg)
+![NYT image](./images/hidethepainharold.jpg)
 
-**_"Crypto? You made \$50k off that shit?"_**
+https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html
+
+December 2017 was pretty wild. The market cap of all cryptocurrencies made it to around \$700 billion.
+
+- How much lower it was just days before the top
+- How much it had already gone up in 2017
+- Why wasn't this a more obvious bubble? Could it have been possibly more obvious?
+- Litecoin ATM guy sitting down, never wait in line for an investment
+- Well, it doesn't really matter
 
 I spent 25 minutes on the phone yesterday with Ed, a friendly professional billed by TurboTax as having 15 years of experience.
 

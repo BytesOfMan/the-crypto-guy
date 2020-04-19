@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: about
 title: About
-subtitle: Navigating the ups and downs of life-changing wealth
+subtitle:
 featuredImage: ../images/header.jpg
 meta:
   description: About theCryptoGuy.com

@@ -20,7 +20,7 @@ class PopupMailchimp extends Component {
       <Fragment>
         <div>
           <div class="Button" onClick={this.togglePopup.bind(this)}>
-            Start Now
+            Subscribe
           </div>
         </div>
 
@@ -30,9 +30,10 @@ class PopupMailchimp extends Component {
               className="Popup-Background"
               onClick={this.togglePopup.bind(this)}
             ></div>
-            <div className="Popup-Inner">
+            <div className="Popup-Inner-MailChimp">
               <X class="Popup-Close" onClick={this.togglePopup.bind(this)} />
               <div id="mc_embed_signup">
+                <h3 className="MailChimp-Title">Weekly crypto updates</h3>
                 <form
                   action="https://bytesofman.us8.list-manage.com/subscribe/post?u=e76b410ea972ff2809a8a8d6a&amp;id=903ddd3222"
                   method="post"
