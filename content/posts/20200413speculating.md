@@ -3,7 +3,9 @@ template: SinglePost
 title: Speculating is Timeless
 status: Published
 date: '2020-04-13'
-featuredImage: 'https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg'
+featuredImage: '../images/stonks.jpg'
+emailSubject: Speculating is Timeless
+emailPreviewText: In the aftermath of the 2008 financial crisis, what most people called "investment" was in fact gambling on what the federal authorities would support next.
 excerpt: >-
   In the aftermath of the 2008 financial crisis, what most people called "investment" was in fact gambling on what the federal authorities would support next.
 categories:
@@ -13,7 +15,7 @@ meta:
   title: Speculating is Timeless
 ---
 
-![](https://i.kym-cdn.com/entries/icons/original/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg)
+![Stonks](../images/stonks.jpg)
 
 In the aftermath of the 2008 financial crisis, what most people called "investment" was in fact gambling on what the federal authorities would support next.
 
@@ -34,7 +36,7 @@ families.
 
 Winston Churchill's mother was the daughter of lengendary American speculator Leonard Jerome:
 
-![The Jerome Mansion](https://upload.wikimedia.org/wikipedia/commons/5/5f/Jerome_Mansion_crop.jpg)
+![The Jerome Mansion](../images/jerome-mansion.jpg))
 
 ###### The Jerome Mansion. <a href="https://en.wikipedia.org/wiki/Leonard_Jerome" target="_blank" rel="nofollow">Jerome</a> was a flamboyant and successful stock speculator. He made and lost several fortunes, and was known as "The King of Wall Street"
 
@@ -56,7 +58,7 @@ But the immediate implications (and harsh realities) are more important to anyon
 
 After all &mdash; the bad reputation of speculating isn't actually a mystery.
 
-![Downside of speculating](https://d32c3oe4bky4k6.cloudfront.net/-/media/uscamediasite/images/story-images/2019/10/29/black-tuesday-walter.ashx?modified=20191029203236)
+![Downside of speculating](../images/speculating-downside.jpg)
 
 Fortunes &mdash;
 

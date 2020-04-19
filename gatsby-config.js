@@ -29,6 +29,8 @@ module.exports = {
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  subject: site.node.frontmatter.emailSubject,
+                  preview: site.node.frontmatter.emailPreviewText,
                   custom_elements: [{ 'content:encoded': edge.node.html }]
                 })
               })
@@ -48,7 +50,9 @@ module.exports = {
                         frontmatter {                          
                           title
                           date
-                          featuredImage                              
+                          featuredImage
+                          emailSubject
+                          emailPreviewText
                         }
                         html                
                         excerpt(pruneLength: 140)
