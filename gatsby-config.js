@@ -12,16 +12,30 @@ module.exports = {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `
-          {
-            site {
-              siteMetadata {
-                title
-                
+        {
+          site {
+            siteMetadata {
                 siteUrl
-                site_url: siteUrl
-              }
             }
+        }
+          allMarkdownRemark(
+              limit: 1000
+              filter: { fileAbsolutePath: { regex: "//content/posts//" } }
+              sort: { order: DESC, fields: [frontmatter___date] }
+          ) {
+              edges {
+                  node {
+                    frontmatter {                          
+                          title
+                          date
+                          featuredImage 
+                      }
+                    html                
+                    excerpt(pruneLength: 140)
+                  }
+              }
           }
+      }
         `,
         feeds: [
           {
