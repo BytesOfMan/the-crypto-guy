@@ -66,6 +66,7 @@ export const BlogIndexTemplate = ({
             title={title}
             subtitle={subtitle}
             backgroundImage={featuredImage}
+            showMailchimp
           />
 
           {/*!!postCategories.length && (
