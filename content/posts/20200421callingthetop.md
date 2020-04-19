@@ -4,7 +4,6 @@ title: How do you call the top of the crypto market?
 status: Published
 date: '2022-04-21'
 featuredImage: 'https://thecryptoguy.com/images/hidethepainharold.jpg'
-slug: calling-the-top
 excerpt: >-
   "Crypto? You made $50k off that shit?"
 categories:

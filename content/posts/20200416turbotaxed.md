@@ -4,7 +4,6 @@ title: Crypto is not for everyone
 status: Published
 date: '2020-04-16'
 featuredImage: 'https://thecryptoguy.com/images/hidethepainharold.jpg'
-slug: crypto-is-not-for-everyone
 excerpt: >-
   "Crypto? You made $50k off that shit?"
 categories:
