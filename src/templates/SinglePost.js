@@ -5,11 +5,13 @@ import { ChevronLeft } from 'react-feather'
 
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import Image from '../components/Image'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
   title,
   date,
+  featuredImage,
   body,
   nextPostURL,
   prevPostURL,
@@ -98,6 +100,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
       <SinglePostTemplate
         {...post}
         {...post.frontmatter}
+        featuredImage={post.frontmatter.featuredImage}
         body={post.html}
         nextPostURL={_get(thisEdge, 'next.fields.slug')}
         prevPostURL={_get(thisEdge, 'previous.fields.slug')}
@@ -126,6 +129,7 @@ export const pageQuery = graphql`
         categories {
           category
         }
+        featuredImage
       }
     }
 

@@ -23,7 +23,8 @@
 }
 
 ::selection {
-  background: rgba(0, 194, 189, 0.6);
+  background: var(--primary);
+  color: #fff;
 }
 
 html {
