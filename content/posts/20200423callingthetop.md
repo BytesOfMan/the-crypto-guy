@@ -3,7 +3,7 @@ template: SinglePost
 title: How do you call the top of the crypto market?
 status: Published
 date: '2020-04-23'
-featuredImage: '../images/nyt-bitcoin-millionaires.jpg'
+featuredImage: ../images/nyt-bitcoin-millionaires.jpg
 excerpt: >-
   "December 2017 was wild. The market cap of all cryptocurrencies made it to around \$700 billion."
 categories:
