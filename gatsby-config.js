@@ -134,11 +134,9 @@ module.exports = {
         name: 'pages'
       }
     },
-
     // images
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
-
     {
       resolve: 'gatsby-transformer-remark',
       options: {
