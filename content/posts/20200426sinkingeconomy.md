@@ -91,4 +91,6 @@ Countermeasures to these policies have also advanced.
 
 Crypto is an optimized bearer asset with attractive speculative upside given its exposure to anyone with a smartphone and \$5.
 
-It's no cure-all, but it should be part of your toolkit.
+The Fed will use every technology at its disposal to discourage saving in a downturn.
+
+If you want to preserve your wealth, you can't afford to ignore the latest tools.
