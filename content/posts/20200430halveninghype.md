@@ -109,7 +109,7 @@ The value proposition of cryptocurrency depends on its history. A crypto that ha
 
 Note: _this does not mean that a crypto will do well in the future because it did well in the past._ But it is distinct from other forms of money. The U.S. dollar has only lost value with time.
 
-One of the most popular questions with new crypto investors: what's the next bitcoin? There are other compelling crypto projects with attractive potential returns, but a substantial portion of Bitcoin's value lies in its 10+ years of protocol security.
+One of the most popular questions with new crypto investors: what's the next bitcoin? There are other compelling crypto projects with attractive potential returns, but a substantial portion of Bitcoin's value lies in its 10+ years of proven protocol security.
 
 **2\. Volatility is proportional to market capitalization**
 
@@ -117,7 +117,7 @@ At \$8,900 per bitcoin, the 18.4 million bitcoins in existence are worth about \
 
 Compare to Bitcoin Cash. At \$256, the 18.4 million BCH in existence are worth about \$5 billion (Bitcoin Cash is the 4th largest crypto by market capitalization. Ethereum is the second largest, at ~\$25 billion, about 15% the size of bitcoin).
 
-Right now on Coinbase, it would cost you under \$1 million to market sell the spot price down by 10%.
+Right now on Coinbase, it would cost you under \$1 million to market sell the spot price of Bitcoin Cash down by 10%.
 
 Yes, there are are more factors to consider, but this pattern is true for all assets.
 
@@ -127,9 +127,13 @@ Smaller cap coins tend to outperform bitcoin in a bull run. From December 2016 t
 
 Bitcoin tends to fare better in a bear market, though even by faring _the best_ in the current bear market, the bitcoin price still plummeted 70%.
 
-A lot of new crypto investors extrapolate this to mean they need to buy as much of the cheapest crypto as possible. Please don't do this. There are diminishing returns to chasing smaller and smaller market caps. Remember, **in crypto, staying power matters.**
+A lot of new crypto investors think this means they need to buy as much of the cheapest crypto as possible.
 
-If a coin hasn't been around for a few years, there needs to be a compelling reason (for example, substantial venture capital backing, as with ZCash) to believe it will still be around next year.
+Please don't do this.
+
+There are diminishing returns to chasing smaller and smaller market caps. Remember, **in crypto, staying power matters.**
+
+If a coin hasn't been around for a few years, there needs to be a compelling reason to believe it will still be around next year (for example, substantial venture capital backing, as with ZCash in 2017).
 
 **3\. Don't go overboard**
 
@@ -147,6 +151,8 @@ So, a \$10k position at this allocation would today be about 0.5 BTC, 14 ETH, an
 
 You could open this today at Coinbase.com. If you use [this link](https://www.coinbase.com/join/jking_iZ2ADA) to register, we'll both get \$10 free.
 
-While I hold all of the above cryptos, my personal portfolio is weighted significantly more on BCH. But I'm also something of a BCH partisan whose full time job is writing software for BCH apps.
+While I hold all of the above cryptos, my personal portfolio is weighted significantly more on Bitcoin Cash (BCH). But I'm also something of a BCH partisan whose full time job is writing software for BCH apps.
 
 Remember, **in crypto, everyone has an incentive to sell you their holdings.** You can't expect to completely outsource your research!
+
+The starter portfolio above is modeled for a more conservative crypto investor who isn't (yet) looking to dive into the details.
