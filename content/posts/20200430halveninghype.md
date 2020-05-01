@@ -91,6 +91,8 @@ And their business is about to become twice as competitive.
 
 I can tell you lots of important long term fundamental reasons why crypto is likely to experience growing demand in the future. Unfortunately, crypto is still so thinly traded that short term price swings tend to be dominated by media events, google search popularity, and other non-traditional indicators.
 
+<a name="whatDoesThisMeanForYou"></a>
+
 When halvenings roll around, people who normally want nothing to do with crypto start asking me about bitcoin. And the price tends to go up, then down, then UP, then DOWN. So, for all the debates and the wondering and the pundits, the net impact tends to be higher prices and a lot of drama.
 
 **What does this mean for you?**
