@@ -39,7 +39,7 @@ An estimated 100,000 prospectors traveled to the Klondike between 1896 and 1899,
 
 This was a big migration. The entire population of Seattle would not reach 80,000 until 1900.
 
-The Klondike Gold Rush is unique as one of the last great gold rushes, and its cultural legacy endures to this day. Disney's Scrooge McDuck, who we can all imagine swimming in his money pit, first struck it rich in the Klondike.
+The Klondike Gold Rush is unique as one of the last great gold rushes, and its cultural legacy endures to this day. Disney's Scrooge McDuck, famous for swimming in his mythical money pit, first struck it rich in the Klondike.
 
 Indeed, we have an almost innate association of gold with wealth. That's why some crypto promoters love to call bitcoin **"digital gold."**
 
@@ -55,7 +55,7 @@ The social traditions of trade and value followed by bitcoin are ancient, far ol
 
 But bitcoin is not an ancient asset.
 
-**This is the only reason you can still make money in crypto.**
+**This is the only reason you can still make (serious) money in crypto.**
 
 Look, if bitcoin were digital gold, then gold would be analog Blockbuster. That hasn't happened, it ain't happening, and it's weird that so many crypto people argue with gold people (and vice versa) about the better asset.
 
@@ -63,7 +63,7 @@ The dumbest part about the whole debate?
 
 **"Digital gold"** was popularized as a bitcoin label to paper over the real problem of high bitcoin transaction fees. "Look," crypto Twitter said, "gold is bad at this. And bitcoin is also bad at this! Therefore bitcoin is digital gold...which is good."
 
-**You can own both**
+**You can own both.**
 
 Want to own gold in 2020? Well, you don't have to quit your job, enter a bidding war for a good team of sled dogs, prove to the commissioner that you have at least a ton of food before crossing the pass, and pray you escape frostbite.
 
@@ -73,11 +73,11 @@ If you are skeptical about thousands of years of humans wanting gold, you could 
 
 Of course, the Klondike stampeders didn't battle frostbite in the Yukon simply to own gold. They wanted to get rich. They wanted to own more gold than others by _getting there first_.
 
-Human psychology and "fear of missing out" are far older than the value we place on gold and indeed cause the entire phenomenon of the gold rush.
+Human psychology and the "fear of missing out" are far older than the value we place on gold and indeed cause the entire phenomenon of the gold rush.
 
 It's unfortunate that we are re-learning this nowadays for far less glamorous goods like hand sanitizer and canned tuna, available only after a line-up amid "social distancing."
 
-**Stampedes happen in crypto, too**
+**Stampedes happen in crypto, too.**
 
 Crypto is not "digital gold."
 
