@@ -1,25 +1,27 @@
 ---
 template: SinglePost
-title: A Tale of Two Bull Runs
+title: Crypto and Covid19 - Three Trends to Watch
 status: Published
-date: '2020-05-08'
-featuredImage: ../images/price-5uphs_1sd_0_0_33r1nr.png
+date: '2020-05-09'
+featuredImage: ../images/shutterstock_editorial_9224878a_huge.jpg
 excerpt: >-
-  On July 15, 1897, the steamer Excelsior docked in San Francisco with 30 passengers and $40 million in gold.
+  Here are a few signs that crypto is being taken seriously as an offensive weapon against inflation
 categories:
   - category: Notes
 meta:
-  description: On July 15, 1897, the steamer Excelsior docked in San Francisco with 30 passengers and $40 million in gold.
-  title: A Tale of Two Bull Runs
+  description: Here are a few signs that crypto is being taken seriously as an offensive weapon against inflation
+  title: Crypto and Covid19 - Three Trends to Watch
 ---
 
-![Bitcoin price since last bull run](../images/price-5uphs_1sd_0_0_33r1nr.png)
+![Bitcoin price since last bull run](../images/shutterstock_editorial_9224878a_huge.jpg)
 
-Let's start by saying the _next_ bull run is not necessarily now. We've already seen short term fluctuations from $3,000 to $12,000 and then **back** to the \$3k range for BTC since 2018.
+With inflation all but personally promised by governments and central banks in response to Covid19, it's easy to assume things will go well for crypto.
 
-But!
+But economic turmoil isn't necessarily the best time to buy speculative assets.
 
-Lots of interesting stuff _is_ happening now.
+How will investors react?
+
+Here are a few signs that crypto is being taken seriously as an offensive weapon against inflation:
 
 **1\. Trading volume is high and growing, despite Covid19**
 
@@ -50,13 +52,13 @@ So 2017 saw almost **2,700%** growth in bitcoin trading volume.
 
 2019: \$99 million per day.
 
-2020 so far: \$135 million per day.
+2020 YTD: \$135 million per day.
 
-**_The biggest question mark over the timing of the next crypto bull market is how Covid19 will impact investment decisions._**
+_The biggest question mark over the timing of the next crypto bull market is how Covid19 will impact investment decisions._
 
-And the average since April 1, when businesses started shutting down for Covid19, is higher still at \$144 million per day.
+The average daily bitcoin trading volume since April 1, when many businesses started shutting down for Covid19, is higher still at \$144 million per day. April 29 saw \$430 million.
 
-The data is incomplete...but, so far, _crypto investors have not been discouraged from trading during the pandemic._
+So far, _crypto investors have not been discouraged from trading during the pandemic._
 
 **2\. Hash power is 10 times what it was at the peak of the 2017 bull run**
 
@@ -78,7 +80,7 @@ But it does capture real world commitment and preference to other asset classes.
 
 Miners have true skin in the game. Today, it's 10 times more than the top of the 2017 bull run.
 
-**3\. Even crypto skeptics know inflation is coming**
+**3\. Crypto skeptics are not inflation skeptics**
 
 It's no secret that everyone is looking for returns these days.
 
