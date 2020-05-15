@@ -10,7 +10,7 @@ categories:
   - category: Notes
 meta:
   description: I remember thinking it was insane when Chipotle was a 10 billion dollar company.
-  title: $26 billion of burritos
+  title: $27 billion of burritos
 ---
 
 ![Hungry for gains?](../images/fastmoney2.png)
