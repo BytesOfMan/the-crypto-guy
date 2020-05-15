@@ -5,18 +5,17 @@ status: Published
 date: '2020-05-14'
 featuredImage: ../images/fastmoney2.png
 excerpt: >-
-  Chicago is an important place. Ten million people live in its metro area. Its GDP edged past Switzerland in 2018, making it higher than all but 19 nations.
-
+  I remember thinking it was insane when Chipotle was a 10 billion dollar company.
 categories:
   - category: Notes
 meta:
-  description: Chicago is an important place. Ten million people live in its metro area. Its GDP edged past Switzerland in 2018, making it higher than all but 19 nations.
+  description: I remember thinking it was insane when Chipotle was a 10 billion dollar company.
   title: $26 billion of burritos
 ---
 
 ![Hungry for gains?](../images/fastmoney2.png)
 
-I remember thinking how insane it was that Chipotle was a 10 billion dollar company.
+I remember thinking it was insane when Chipotle was a 10 billion dollar company.
 
 This was in 2016, and that valuation (the price of all publicly traded Chipotle stock) was something like 40 times their annual earnings. Buying the stock back then would have implied one of three things.
 
@@ -26,9 +25,9 @@ This was in 2016, and that valuation (the price of all publicly traded Chipotle 
 
 **3\.** You thought the stock would go up because perhaps other people would believe any of these reasons in the future.
 
-**Fast forwardo to today.**
+**Fast forward to today.**
 
-Coming off of several food poisoning scares, Chipotle has also recently gone through the same Covid19 as every other restaurant. Sure, they moved some burritos through UberEats.
+Coming off of several food poisoning scares, Chipotle has also recently gone through the same Covid19 crisis as every other restaurant (which is ongoing with no set end date). To their credit, they moved some burritos through UberEats and had some minor wins.
 
 The **lowest** their valuation ever reached was **\$13 billion.**
 
@@ -52,7 +51,7 @@ The Fed is printing that _every 6 days._
 
 Look, anything is on the table for this crisis. Negative interest rates, considered impossible before 2008, are now all but guaranteed to roll out in the next year.
 
-It's also possible that a $27 billion burrito company will be worth $270 billion before the $250 crypto market cap tops it's all time high of $800ish billion.
+It's also possible that a $27 billion burrito company will be worth $270 billion before the $250 billion crypto market cap tops it's all time high of $800ish billion.
 
 Personally, I wouldn't bet on it.
 
@@ -66,7 +65,7 @@ ETH is under \$200, or about 15% of its 2017 all time high. BCH, at \$240, is le
 
 The last crypto bull run saw BTC pull away after a halvening before smaller cap cryptos blazed by. This trend is likely to hold true again, since it's not some mystical crypto chart magic prediction. We've seen the same thing happen with silver in a gold bull market.
 
-If you don't have an account at any crypto exchange, click here to get started. Or just send me an email with your questions.
+If you don't have an account at any crypto exchange, [click here to get started.](https://www.coinbase.com/join/jking_iZ2ADA) Or just send me an email with your questions.
 
 Or, if you think you know more about burritos than me (I warn you, my average Taco Bell order is well over \$20), order yourself some Chipotle stock.
 
