@@ -9,7 +9,7 @@ meta:
   title: Buy Now | The Crypto Guy
 ---
 
-## <a href="https://buy-staging.moonpay.io?apiKey=pk_test_1vzuR8pfqnMojMls83TeFyBCW1tm5FOP" target="_blank" rel="nofollow">Click here to buy crypto with a credit card.</a>
+## <a href="https://buy-staging.moonpay.io?apiKey=pk_live_YZodGWRL2oBOR7K3Sc7IVhIrx0MfMm2B" target="_blank" rel="nofollow">Click here to buy crypto with a credit card.</a>
 
 ## Don't you recommend an exchange?
 
