@@ -9,7 +9,7 @@ meta:
   title: Buy Now | The Crypto Guy
 ---
 
-## <a href="https://buy-staging.moonpay.io?apiKey=pk_live_YZodGWRL2oBOR7K3Sc7IVhIrx0MfMm2B" target="_blank" rel="nofollow">Click here to buy crypto with a credit card.</a>
+## <a href="https://buy.moonpay.io?apiKey=pk_live_YZodGWRL2oBOR7K3Sc7IVhIrx0MfMm2B" target="_blank" rel="nofollow">Click here to buy crypto with a credit card.</a>
 
 ## Don't you recommend an exchange?
 
@@ -21,6 +21,6 @@ And, if you [sign up with this link,](https://www.coinbase.com/join/jking_iZ2ADA
 
 Creating and maintaining an account at a crypto exchange isn't for everyone.
 
-You can easily <a href="https://buy-staging.moonpay.io?apiKey=pk_test_1vzuR8pfqnMojMls83TeFyBCW1tm5FOP" target="_blank" rel="nofollow">buy some crypto with a credit card right now.</a>
+You can easily <a href="https://buy.moonpay.io?apiKey=pk_live_YZodGWRL2oBOR7K3Sc7IVhIrx0MfMm2B" target="_blank" rel="nofollow">buy some crypto with a credit card right now.</a>
 
 The fees are higher to use a credit card. **But if you find a better deal anywhere else, I'll match it.**
