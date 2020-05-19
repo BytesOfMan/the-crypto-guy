@@ -17,7 +17,7 @@ meta:
 
 Much to his surprise, King John II of France was having a bad day.
 
-It was the 19th of September, 1356. He had finally trapped the forces of his enemy, Edward "the Black Prince," who had been raiding across the south of France. Outnumbering Edward almost two to one, John opted for pitched battle instead of a siege.
+It was the 19th of September, 1356. He had finally trapped the forces of his enemy, Edward "the Black Prince," ending his raids across the south of France. Outnumbering Edward almost two to one, John opted for pitched battle instead of a siege.
 
 Unfortunately for John, his army was outmaneuvered and overpowered by the smaller English force. Even the precautions taken against his own capture &mdash; 90 knights of his own order in his personal guard, with 17 dressed identically to their King &mdash; proved fruitless after most were killed and his helmet was knocked off.
 
@@ -25,11 +25,11 @@ Finally yielding, he was taken into English custody.
 
 **It's good to be the king.**
 
-Despite the ensuing political chaos in France and what must have been a high degree of personal embarrassment for John, his captivity was comfortable.
+Despite the ensuing political chaos in France and what must have been a great deal of personal embarrassment for John, his captivity was comfortable.
 
 He enjoyed a lavish lifestyle and even traveled. Account books during his captivity show purchases of horses, pets, and clothes. He maintained an astrologer and a court band.
 
-After some international haggling (which, naturally, included additional English raids into the French countryside), John's ransom was agreed at 3 million crowns.
+After some international haggling (including additional English raids into the French countryside), John's ransom was agreed at 3 million crowns.
 
 **How much?**
 
@@ -51,27 +51,25 @@ John's son Charles, the heir apparent and regent in his father's absence, tried 
 
 **Only \$45 million?**
 
-Given the eye-popping numbers we are used to seeing from governments today, this doesn't seem so bad. Indeed, the freedom of a powerful nation's sovereign ruler &mdash; after four years of capture &mdash; came out to [roughly the cost of 0.00017% of Chipotle.](https://thecryptoguy.com/posts/27-billion-of-burritos/)
+Given the eye-popping numbers we see from governments today, this doesn't seem so bad. Indeed, the freedom of a powerful nation's sovereign ruler &mdash; after four years of capture &mdash; came out to [roughly the cost of 0.17% of Chipotle.](https://thecryptoguy.com/posts/27-billion-of-burritos/)
 
 What a deal!
 
 Well, that was the cash portion anyway. The treaty also handed over a big piece of France.
 
-It would weaken France for the remainder of the Hundred Years War, and they would not finish paying the debt for decades. But they did finish paying it...which also sounds weird to the sophistications of modern finance.
-
 **Why mint when you can print?**
 
-On May 15th the House of Representatives in the United States passed the Health and Economic Recovery Omnibus Emergency Solutions Act...or the HEROES act, adding another \$3 **_trillion_** dollars to the total cost of legislation related to the Coronavirus pandemic.
+On May 15th, the House of Representatives in the United States passed the Health and Economic Recovery Omnibus Emergency Solutions Act...or the HEROES act &mdash; adding another \$3 **_trillion_** dollars to the total cost of legislation related to the Coronavirus pandemic.
 
 If it passes the Senate, the total federal cost of the Pandemic will hit \$7 trillion. In addition, the Fed has expanded its balance sheet by nearly \$3 trillion.
 
 Some predictions:
 
 - The HEROES act will not be paid with gold.
-- At no point will the President or Congress need to evacuate Washington due to escape a mob of angry peasants.
+- At no point will the President or Congress need to evacuate Washington to escape a mob of angry peasants.
 - There will be negative consequences from the cost.
 
-If anything, officials are still nervous about appearing to spend too little. The chairman of the Fed went on 60 minutes and personally confirmed he "flooded the system with money" by "\[printing\] it digitally."
+If anything, officials are still nervous about appearing to spend too little. The chairman of the Fed went on _60 Minutes_ and personally confirmed he "flooded the system with money" by "\[printing\] it digitally."
 
 Uncharacteristically, he was asked about the potential downside of this action, but [got away with](https://www.sovereignman.com/trends/another-week-another-3-trillion-bailout-27775/) "this is not the time to prioritize that concern."
 
@@ -79,27 +77,25 @@ Can you imagine if King John's son and regent had appeased the angry mob by prom
 
 The Parisian rabble did not need _60 minutes_ to know they were being fleeced.
 
-700 years later, we do need _60 minutes_ to know...what exactly?
-
 **You don't have to be a crazy crypto stereotype to think there could be consequences from this bailout bonanza.**
 
 Even the Chairman of the Federal Reserve is saying there will be consequences.
 
-These guys are doing my job for me.
+These guys are doing my job for me!
 
 There may be no no example in all of human history of a better reason to own real assets like precious metals, or assets that exist in parallel to the modern financial system like cryptocurrency.
 
-Sometimes I don't know why I bother with King John and the currency created by his capture that went on to have centuries of prominence in modern finance.
+Sometimes I don't know why I bother with King John and the currency created for his ransom that went on to have centuries of prominence in modern finance.
 
 **The financial exploits of last week make a King's Ransom seem like a rounding error.**
 
-Note that the Franc succumbed to devaluation and inflation to answer the countless now-forgotten past crises of state. Revalued at 100 to 1 in 1960 as the "New Franc," it was retired for the "Euro" in 2002.
+Eventually, the Franc succumbed to devaluation and inflation to answer the countless now-forgotten past crises of state. Revalued at 100 to 1 in 1960 as the "New Franc," it was retired for the "Euro" in 2002.
 
 **What action can you take?**
 
 While the Parisian mob preferred a direct approach, this has since become unfashionable. Fortunately, central banks are not the only ones with access to modern financial magic.
 
-The Fed can't print more bitcoin.
+You can buy bitcoin. The Fed can't print more bitcoin.
 
 Crypto can get crazier, sure.
 

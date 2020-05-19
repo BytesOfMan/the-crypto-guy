@@ -50,7 +50,7 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/buy">Buy</NavLink>
+            {/*<NavLink to="/buy">Buy</NavLink>*/}
             <NavLink to="/articles/">Articles</NavLink>
             {/* Submenu
             <div
