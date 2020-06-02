@@ -49,8 +49,6 @@ Stocks are piling on more and more potential downside.
 
 It's satisfying to complain about this. But it's more important to do what you can to prosper despite situations beyond your control.
 
-It's perfectly satisfying to complain about this, but it's more important to do what you can to prosper as much as possible despite situations beyond your control.
-
 People have always responded to strange times by seeking safer investments: namely, gold and silver. And that's still a good idea today.
 
 But, while strange times occur throughout human history, **much of what we are currently experiencing is unique to the present.**
@@ -85,7 +83,9 @@ It currently dominates this niche. Although many competitors exist, they are eit
 
 All of the Ethereum in the world is today worth $28 billion, or **$1 billion less than Chipotle.\*\*
 
-Anyone can make a burrito! Anyone can wake up one day and decide, you know, today I am going to eat something other than a burrito. I'll have you know that even the crypto guy does this sometimes. Riots and pandemics are not the only challenges on Chipotle's march to piping guacamole into every American home.
+Anyone can make a burrito!
+
+Anyone can wake up one day and decide, you know, today I am going to eat something other than a burrito. I'll have you know that even the crypto guy does this sometimes. Riots and pandemics are not the only challenges on Chipotle's march to piping guacamole into every American home.
 
 But only a tiny amount of traction would 10x Ethereum, whose all time high remains 5 times higher than its current price.
 
