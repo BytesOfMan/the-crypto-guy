@@ -2,7 +2,7 @@
 template: SinglePost
 title: 'Listen to the Cannons: Why to Buy'
 status: Published
-date: '2020-06-22'
+date: '2020-06-23'
 featuredImage: ../images/640px-Francis_Sartorius_-_Four_frigates_capturing_Spanish_treasure_ships,_5_October_1804.jpg
 excerpt: >-
   On October 5, 1804, General Diego de Alvear was a rich man with a big problem.
@@ -37,7 +37,7 @@ Negotiations went bad.
 
 The British wanted the surrender and confiscation of all four vessels. The Spanish were not prepared to agree. Warning shots turned into all out broadsides.
 
-After less than 10 minutes, the _Mercedes_ exploded. Only the front section of the ship and 40 survivors remained.
+In less than 10 minutes, the _Mercedes_ exploded. Only the front section of the ship and 40 survivors remained.
 
 Alvear's wife and 7 daughters were not among them.
 
@@ -49,7 +49,7 @@ The British viewed the 200 fatalities (and vaporized cash) as a sort of unfortun
 
 Today, every government in the world simply prints or borrows the money it needs. It's hard to understand expensive and risky incidents like naval cannonades.
 
-Why did Spanish ships brave hurricanes, pirates, and the Royal Navy Itself to ship hundreds of millions of dollars from one Spanish jurisdiction to another?
+Why did Spanish ships brave hurricanes, pirates, and the Royal Navy Itself to send money from one Spanish jurisdiction to another?
 
 Instead of shipping $300 million in the _Mercedes,_ they could have printed $600 million and been twice as well off!
 
@@ -81,7 +81,7 @@ But we are not in a post-human-nature society.
 
 England, then the richest nation in the world, shipped all of its gold reserves to New York to pay for World War I.
 
-Most of Spain's legendary colonial wealth today resides in Moscow. In 1936, Spanish republicans bought weapons and support in a failed effort to defeat Franco and the nationalists.
+Most of Spain's legendary colonial wealth today resides in Moscow. In 1936, Spanish republicans used it to pay for weapons and support in a failed effort to defeat Franco and the nationalists.
 
 75 years later, Congressman Ron Paul asked Federal Reserve chair Ben Bernanke "is gold money?"
 
@@ -97,13 +97,15 @@ Asset freezes usually have more mundane causes than American displeasure at the 
 
 Greek capital controls from their 2015 debt crisis only ended last September. The 2012 Cyprus debt crisis saw accounts frozen and balances confiscated.
 
-**This is the problem crypto solves**
+**Custodial risk: the problem crypto solves**
 
 Most people do not care about the custodial risk of assets. Most of the time, it doesn't matter. You log into your bank account. Your balance is right there on the screen.
 
 But you don't want to be unprepared when custodial risk does matter. Bank accounts are seized. Ships sink. Armies march.
 
-**It's pretty obvious we're moving into a major economic event.** The likelihood of asset freezes and outright seizures is growing.
+**It's pretty obvious we're moving into a major economic event.**
+
+The likelihood of asset freezes and outright seizures is growing.
 
 Crypto is not the miracle cure that some of its supporters claim. The custodial risk for crypto is much, much smaller than a bank account &mdash; but it isn't zero. Crypto can be seized by theft, ransom, or taxation (important clues that crypto is money). And crypto has other risks like price volatility.
 
