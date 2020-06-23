@@ -29,7 +29,7 @@ In modern terms, the _Mercedes_ carried over \$300 million in cash.
 
 Less than 100 miles from their destination, the Spanish squadron sighted four British frigates.
 
-Now, Britain and Spain were not technically at war. But Britain was very much at war with Napoleonic France. And British intelligence had learned of Spain's present and future French support.
+Now, Britain and Spain were not technically at war. But Britain was very much at war with Napoleonic France. And British intelligence had learned of Spain's support for France.
 
 Alvear, who spoke fluent English, was summoned to the Spanish flagship to assist in the pending negotiation. He took his 15 year-old son Carlos and left the _Mercedes_ for the _Medea_.
 
@@ -71,7 +71,7 @@ On the surface, modern finance seems to have plugged some of these gaps.
 
 Broadsides are certainly more rare these days. You can even travel abroad without worrying about the Royal Navy murdering your family.
 
-Unfortunately, modern finance has only papered over the age-old problem of who gets what and why. The temporary prosperity afforded by money printing is always tempting.
+Unfortunately, modern finance has only papered over the problem. The temporary prosperity afforded by money printing is always tempting.
 
 We have been tremendously fortunate. The prosperity of the last several decades managed to lower incentives for largescale war.
 
@@ -87,11 +87,11 @@ Most of Spain's legendary colonial wealth today resides in Moscow. In 1936, Span
 
 "No," he answered.
 
-Today, the priests of modern finance will not even admit that gold is money (even though they still keep thousands of tons of it in "reserve").
+Today, the priests of modern finance will not even admit that gold is money (even though they still keep thousands of tons of it in reserve).
 
 The modern solution is a complicated spaghetti of banks, correspondent banks, and political agreements. You can send \$300 million from the US to Spain by getting various banking officials to agree that it happened. It works great, until it doesn't.
 
-Most people have heard of the December 1941 Japanese attack on Pearl Harbor. The July 1941 freezing of all Japanese assets in the US is less common knowledge.
+Most people have heard of the December 1941 Japanese attack on Pearl Harbor. Most people have not heard of the July 1941 freezing of all Japanese assets in the US.
 
 Asset freezes usually have more mundane causes than American displeasure at the Japanese occupation of French Indochina.
 
