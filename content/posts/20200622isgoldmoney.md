@@ -1,23 +1,23 @@
 ---
 template: SinglePost
-title: What does crypto do exactly?
+title: 'Listen to the Cannons: Why to Buy'
 status: Published
 date: '2020-06-22'
 featuredImage: ../images/640px-Francis_Sartorius_-_Four_frigates_capturing_Spanish_treasure_ships,_5_October_1804.jpg
 excerpt: >-
-  Billionaire Larry Ellison knew there was a good chance he would drown in a few hours.
+  On October 5, 1804, General Diego de Alvear was a rich man with a big problem.
 categories:
   - category: Notes
 meta:
-  description: Billionaire Larry Ellison knew there was a good chance he would drown in a few hours.
-  title: What does crypto do exactly?
+  description: On October 5, 1804, General Diego de Alvear was a rich man with a big problem.
+  title: 'Listen to the Cannons: Why to Buy'
 ---
 
 ![Action of 5 October 1804](../images/640px-Francis_Sartorius_-_Four_frigates_capturing_Spanish_treasure_ships,_5_October_1804.jpg)
 
 On October 5, 1804, General Diego de Alvear was a rich man with a big problem.
 
-After three profitable decades in Argentina, Alvear was headed home. He booked passage for himself, his family, and his fortune (about £30,000 in gold and silver) on the _Nuestra Señora de las Mercedes_, a Spanish ship sailing out of Montevideo.
+After three profitable decades in Argentina, Alvear was going home. He booked passage for himself, his family, and his fortune (about £30,000 in gold and silver) on the _Mercedes_, a Spanish ship sailing out of Montevideo.
 
 The _Mercedes_ sailed for Cádiz in a squadron of 4 Spanish ships. Between them, they carried a kingly treasure &mdash; mostly gold and silver, but also wool, tin, copper, seal skins, and oil. The _Mercedes_ alone carried most of the wealth, at the time valued at £1.2 million pounds.
 
@@ -29,7 +29,7 @@ In modern terms, the _Mercedes_ carried over \$300 million in cash.
 
 Less than 100 miles from their destination, the Spanish squadron sighted four British frigates.
 
-Now, Britain and Spain were not technically at war. But Britain was very much at war with Napoleonic France, and British intelligence had learned of Spain's present and future French support.
+Now, Britain and Spain were not technically at war. But Britain was very much at war with Napoleonic France. And British intelligence had learned of Spain's present and future French support.
 
 Alvear, who spoke fluent English, was summoned to the Spanish flagship to assist in the pending negotiation. He took his 15 year-old son Carlos and left the _Mercedes_ for the _Medea_.
 
@@ -43,48 +43,74 @@ Alvear's wife and 7 daughters were not among them.
 
 **Collateral damage**
 
-The British viewed the 200 fatalities (and vaporized cash) as a sort of unfortunate side effect of Spain's refusal to surrender. A British court even restored Alvear's £30,000 from the seized value of the other vessels. Alvear would meet an Irish wife and have another 10 children.
+The British viewed the 200 fatalities (and vaporized cash) as a sort of unfortunate side effect of Spain's refusal to surrender. A British court even restored Alvear's £30,000 from the seized value of the other vessels.
 
 **What's the point?**
 
-Today, when every government in the world simply prints or borrows any of the money it needs, it's hard to see the obvious.
+Today, every government in the world simply prints or borrows the money it needs. It's hard to understand expensive and risky incidents like naval cannonades.
 
-Why did Spanish ships brave hurricanes and pirates and the Royal Navy Itself to ship hundreds of millions of dollars from one Spanish jurisdiction to another?
+Why did Spanish ships brave hurricanes, pirates, and the Royal Navy Itself to ship hundreds of millions of dollars from one Spanish jurisdiction to another?
 
 Instead of shipping $300 million in the _Mercedes,_ they could have printed $600 million and been twice as well off!
 
 After all, modern central banks are printing _trillions_ of dollars.
 
-> Relate it to Ron Paul asking chairman of the fed, "is gold money?"
-> what would the british army say?
-> what would officer manuel say???
-> Crypto as defense. What does crypto actually do that gold doesn't? This.
-> why didn't spain just print \$300 million? Why go through the trouble of braving nature and the British?
-> Alvear met an Irish girl and had another 10 children
+**People in the past were not idiots.**
 
-Spanish brigadier José de Bustamante y Guerra prepared for the inevitable.
+We love to believe that we are modern, forward-thinking, and well informed. Those old-fashioned people with their gold and their broadsides &mdash; **they're the weirdos.**
 
-He watched the
+But let's pretend. Let's say that marshalling the costly resources of empire usually happened for important reasons.
 
-Four British frigates stood between his fleet and Cádiz.
+Maybe Spain knew that printing \$600 million was a dumb idea compared to importing the cash.
 
-- start with the action of 1804
+Maybe Britain knew it was a dumb idea to let Spain use that cash in the coming war against Britain.
 
-- Most of the money was from private individuals
+**How does modern finance solve this problem?**
 
-* Remember King John and the English after that French gold
-* Lot of that going around
-* Somewhat amazingly, France kept paying the debt...even while at war with the English
-* Why would you want gold to fight a war?
-* Hannibal and the gold mines of Spain
-* England yoinking this Spanish gold before the war (great financial planning); wars of 20th century relied on debt
-* Isn't it kind of silly that you need to get a bunch of slaves to get this metal and then load it onto incredibly expensive war machines to move it thousands of miles? Is there no better way?
-* Perhaps there is not
-* Crypto as DEFENSE (unfreezable); you as an individual do not need a warship and an empire
-* Encryption is asymmetric
-* Crypto as OFFENSE (speculative gains vs USD)
+On the surface, modern finance seems to have plugged some of these gaps.
 
-- https://en.wikipedia.org/wiki/Diego_de_Alvear_y_Ponce_de_Le%C3%B3n
-- daughters source: https://books.google.ca/books?id=XLRMAAAAYAAJ&pg=PA315&lpg=PA315&dq=spanish+officers+wives+and+daughters+on+nuestra+mercedes+1804&source=bl&ots=krm5Fb9ZYG&sig=ACfU3U3FRGBTMUadWFF9fJefmO_jMTDZ3w&hl=en&sa=X&ved=2ahUKEwiF5_--n5bqAhXWITQIHTg6DWcQ6AEwCnoECAwQAQ#v=onepage&q=spanish%20officers%20wives%20and%20daughters%20on%20nuestra%20mercedes%201804&f=false
+Broadsides are certainly more rare these days. You can even travel abroad without worrying about the Royal Navy murdering your family.
 
-Notes
+Unfortunately, modern finance has only papered over the age-old problem of who gets what and why. The temporary prosperity afforded by money printing is always tempting.
+
+We have been tremendously fortunate. The prosperity of the last several decades managed to lower incentives for largescale war.
+
+But we are not in a post-human-nature society.
+
+**The global distribution of all the world's gold is almost entirely due to past wars.**
+
+England, then the richest nation in the world, shipped all of its gold reserves to New York to pay for World War I.
+
+Most of Spain's legendary colonial wealth today resides in Moscow. In 1936, Spanish republicans bought weapons and support in a failed effort to defeat Franco and the nationalists.
+
+75 years later, Congressman Ron Paul asked Federal Reserve chair Ben Bernanke "is gold money?"
+
+"No," he answered.
+
+Today, the priests of modern finance will not even admit that gold is money (even though they still keep thousands of tons of it in "reserve").
+
+The modern solution is a complicated spaghetti of banks, correspondent banks, and political agreements. You can send \$300 million from the US to Spain by getting various banking officials to agree that it happened. It works great, until it doesn't.
+
+Most people have heard of the December 1941 Japanese attack on Pearl Harbor. The July 1941 freezing of all Japanese assets in the US is less common knowledge.
+
+Asset freezes usually have more mundane causes than American displeasure at the Japanese occupation of French Indochina.
+
+Greek capital controls from their 2015 debt crisis only ended last September. The 2012 Cyprus debt crisis saw accounts frozen and balances confiscated.
+
+**This is the problem crypto solves**
+
+Most people do not care about the custodial risk of assets. Most of the time, it doesn't matter. You log into your bank account. Your balance is right there on the screen.
+
+But you don't want to be unprepared when custodial risk does matter. Bank accounts are seized. Ships sink. Armies march.
+
+**It's pretty obvious we're moving into a major economic event.** The likelihood of asset freezes and outright seizures is growing.
+
+Crypto is not the miracle cure that some of its supporters claim. The custodial risk for crypto is much, much smaller than a bank account &mdash; but it isn't zero. Crypto can be seized by theft, ransom, or taxation (important clues that crypto is money). And crypto has other risks like price volatility.
+
+That's why having part of your financial portfolio in crypto is important. And also why it shouldn't be your only asset. Precious metals are still at surprising lows given all the recent money printing.
+
+And the Royal Navy isn't what it used to be.
+
+To your financial sovereignty,
+
+Joey
